@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/erinclaudio/.local/share/virtualenvs/leadmanger2-nTnlWTzj/bin/python"
+    "python.pythonPath": "/Users/erinclaudio/.local/share/virtualenvs/leadmanger2-nTnlWTzj/bin/python",
+    "git.ignoreLimitWarning": true
 }
